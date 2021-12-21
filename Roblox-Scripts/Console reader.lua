@@ -7,6 +7,6 @@
 --Execute after Opening the "DevConsole" (/console)
 --after opening Console "/console" use 𝙥𝙧𝙞𝙣𝙩() to start copying!
 --Script To Use
---[[
-loadstring("")()
-]]
+--
+loadstring("https://raw.githubusercontent.com/RisymE/lRoblox/main/Console%20reader.lua?token=AWFBUXK4E7K7OHZTQHVHBV3BYHRQO")()
+
