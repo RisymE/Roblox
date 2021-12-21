@@ -9,5 +9,5 @@
 --after opening Console "/console" use 𝙥𝙧𝙞𝙣𝙩() to start copying!
 --Script To Use
 ]]
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/RisymE/lRoblox/main/Console%20reader.lua?token=AWFBUXK4E7K7OHZTQHVHBV3BYHRQO'),true))()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/RisymE/Roblox/main/Roblox-Scripts/Scripts/Console%20reader.lua'),true))()
 
