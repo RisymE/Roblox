@@ -1,7 +1,7 @@
 --Console reader & (Print, Console Editor, Console Editing, Printing Copier, Printer Editor, etc.....) 
 -- Made by Rncrex Hack (RncHub)
 -- This is a Test Gui (T64ST)
---Version: 2dc
+-- Version: 2dc
 
 ---#Help & Use
 --Open the "DevConsole" (/console)
